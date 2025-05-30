@@ -1,5 +1,4 @@
 ---
-# Welcome Home
 ---
 ## This is the first stop.
 
