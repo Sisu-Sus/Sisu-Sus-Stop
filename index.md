@@ -3,11 +3,6 @@ layout: default
 title: "Home"
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h1>{{ site.title }}</h1>
-  <p style="font-size: 1.2em; color: #a0a0a0;">{{ site.description }}</p>
-</div>
-
 <nav style="background: #1a1a1a; padding: 1rem; margin-bottom: 2rem; border-radius: 8px; text-align: center;">
   <a href="{{ '/' | relative_url }}" style="color: #4CAF50; margin: 0 1rem; text-decoration: none; font-weight: bold;">🏠 Home</a>
   <a href="{{ '/posts/' | relative_url }}" style="color: #4CAF50; margin: 0 1rem; text-decoration: none; font-weight: bold;">📝 All Posts</a>
