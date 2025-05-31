@@ -9,16 +9,6 @@ author:
   email: "fixitdunbreakit@gmail.com"
   bio: "Security researcher specializing in web app security"
   location: "Global"
-title: "Security Research Blog"
-description: "Advanced cybersecurity research and vulnerability analysis"
-baseurl: "/Sisu-Sus-Stop/"
-url: "https://sisu-sus.github.io"
-
-author:
-  name: "Sisu-Sus"
-  email: "fixitdunbreakit@gmail.com"
-  bio: "Security researcher specializing in web app security"
-  location: "Global"
 
 markdown: kramdown
 highlighter: rouge
