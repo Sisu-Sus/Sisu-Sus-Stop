@@ -1,4 +1,16 @@
-theme: minima
-title: Sisu-Sus's main stop
-description: This is the first step in my journey to contribute to open-source
-author: Sisu-Sus
+title: "Security Research Blog"
+description: "Advanced cybersecurity research and vulnerability analysis"
+baseurl: "/Sisu-Sus-Stop/"
+url: "https://sisu-sus.github.io"
+
+author:
+  name: "Sisu-Sus"
+  email: "fixitdunbreakit@gmail.com"
+  bio: "Security researcher specializing in web app security"
+  location: "Global"
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+remote_theme: "mmistakes/minimal-mistakes"
