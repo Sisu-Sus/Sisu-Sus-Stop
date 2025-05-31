@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "All Posts"
+title: "Sec Posts"
 permalink: /posts/
 ---
 
