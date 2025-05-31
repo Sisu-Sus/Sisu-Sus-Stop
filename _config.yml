@@ -1,3 +1,4 @@
+---
 title: "Security Research Blog"
 description: "Advanced cybersecurity research and vulnerability analysis"
 baseurl: "/Sisu-Sus-Stop/"
@@ -46,7 +47,7 @@ defaults:
       
 future: false
 show_drafts: false
-
+---
 
 
 
