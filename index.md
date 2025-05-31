@@ -1,9 +1,6 @@
 ---
-![Avatar](https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png){: .avatar}
----
 layout: default
 title: "Home"
-avatar: https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
