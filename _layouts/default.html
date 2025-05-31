@@ -9,20 +9,19 @@
 
 {% seo %}
   </head>
-<nav style="background: #1a1a1a; padding: 1rem; margin-bottom: 2rem; border-radius: 8px; text-align: center;">
-  <a href="{{ '/' | relative_url }}" style="color: #4CAF50; margin: 0 1rem; text-decoration: none; font-weight: bold;">🏠 Home</a>
-  <a href="{{ '/posts/' | relative_url }}" style="color: #4CAF50; margin: 0 1rem; text-decoration: none; font-weight: bold;">📝 All Posts</a>
-  <a href="{{ '/research/' | relative_url }}" style="color: #4CAF50; margin: 0 1rem; text-decoration: none; font-weight: bold;">🔍 Research</a>
-  <a href="https://github.com/{{ site.author.github }}" style="color: #4CAF50; margin: 0 1rem; text-decoration: none; font-weight: bold;">💻 GitHub</a>
-</nav>
   <body>
-
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+<nav style="background: #1a1a1a; padding: 1rem; margin-bottom: 2rem; border-radius: 8px; text-align: center;">
+  <a href="{{ '/' | relative_url }}" style="color: #4CAF50; margin: 0 1rem; text-decoration: none; font-weight: bold;">🏠 Home</a>
+  <a href="{{ '/posts/' | relative_url }}" style="color: #4CAF50; margin: 0 1rem; text-decoration: none; font-weight: bold;">📝 All Posts</a>
+  <a href="{{ '/research/' | relative_url }}" style="color: #4CAF50; margin: 0 1rem; text-decoration: none; font-weight: bold;">🔍 Research</a>
+  <a href="https://github.com/{{ site.author.github }}" style="color: #4CAF50; margin: 0 1rem; text-decoration: none; font-weight: bold;">💻 GitHub</a>
+</nav>
 
         <section id="downloads">
           {% if site.show_downloads %}
