@@ -1,10 +1,10 @@
 ---
+![Avatar](https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png){: .avatar}
+---
 layout: default
 title: "Home"
 avatar: https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png
 ---
-
-![Avatar](https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png){: .avatar}
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <h1>{{ site.title }}</h1>
