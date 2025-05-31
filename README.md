@@ -1,3 +1,3 @@
 # Cybersecurity Blog
 
-Welcome to my blog!
+Welcome to the blog!
