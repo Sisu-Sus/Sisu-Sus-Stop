@@ -9,6 +9,7 @@ author:
   email: "fixitdunbreakit@gmail.com"
   bio: "Security researcher specializing in web app security"
   location: "Global"
+  github: "sisu-sus"
 
 markdown: kramdown
 highlighter: rouge
@@ -16,19 +17,19 @@ permalink: /:categories/:title/
 
 remote_theme: "pages-themes/hacker"
 
-  collections:
-    research:
-      output: true
-      permalink: /:collection/:name/
-
+collections:
+  research:
+    output: true
+    permalink: /:collection/:name/
+    
 defaults:
-   scope:
+  - scope:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "default"
       author: "Sisu-Sus"
-   scope:
+  - scope:
       path: "_research"
       type: "research"
     values:
