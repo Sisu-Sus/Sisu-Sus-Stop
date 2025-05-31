@@ -1,8 +1,9 @@
 ---
 layout: default
 title: "Home"
-![Avatar](https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png){: .avatar}
 ---
+
+![Avatar](https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png){: .avatar}
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <h1>{{ site.title }}</h1>
