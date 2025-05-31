@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Home"
-![Avatar](https://github.com/pages-themes/hacker/blob/master/thumbnail.png){: .avatar}
+![Avatar]("https://github.com/pages-themes/hacker/blob/master/thumbnail.png"){: .avatar}
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
