@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Home"
+avatar: https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png
 ---
 
 ![Avatar](https://raw.githubusercontent.com/pages-themes/hacker/master/thumbnail.png){: .avatar}
